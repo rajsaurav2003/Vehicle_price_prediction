@@ -1,5 +1,5 @@
 # Vehicle_price_prediction
-Vehicle dataset from cardekho : https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho.
+Vehicle dataset from cardekho: https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho.
 
 # Objective
 
@@ -20,9 +20,3 @@ The dataset containing used car data from www.cardekho.com will be utilized for 
 • Seller_Type: Dealer or individual.
 • Transmission: Manual or automatic.
 • Owner: Number of previous car owners.
-
-7. Seller_Type : Defines whether the seller is a dealer or an individual.
-
-8. Transmission : Defines whether the car is manual or automatic.
-
-9. Owner : Defines the number of owners the car has previously had.
