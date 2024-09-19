@@ -9,19 +9,17 @@ The project aims to analyze and visualize used car prices from Kaggle's dataset 
 
 The dataset containing used car data from www.cardekho.com will be utilized for price predictions using regression models.
  
-# The datasets consist of several features include:
+# Dataset Features Overview
 
-1. Car_Name : This column should be filled with the name of the car.
-
-2. Year : This column should be filled with the year in which the car was bought.
-
-3. Selling_Price : This column should be filled with the price the owner wants to sell the car at.
-
-4. Present_Price : This is the current ex-showroom price of the car.
-
-5. Kms_Driven : This is the distance completed by the car in km.
-
-6. Fuel_Type : Fuel type of the car i.e Diesel,Petrol,CNG
+• Car_Name: Name of the car.
+• Year: Year of car purchase.
+• Selling_Price: Owner's desired selling price.
+• Present_Price: Current ex-showroom price.
+• Kms_Driven: Distance covered by the car.
+• Fuel_Type: Diesel, Petrol, CNG.
+• Seller_Type: Dealer or individual.
+• Transmission: Manual or automatic.
+• Owner: Number of previous car owners.
 
 7. Seller_Type : Defines whether the seller is a dealer or an individual.
 
